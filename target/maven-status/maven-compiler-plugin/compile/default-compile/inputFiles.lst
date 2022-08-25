@@ -1,0 +1,10 @@
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/services/SearchAndNofityService.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/repositories/DBConnection.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/Main.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/services/sendemail/SendEmailService.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/GenerateMailSession.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/services/sendemail/ITransport.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/services/sendemail/GenerateMimeMessage.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/entities/SearchAndNotify.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/repositories/SearchAndNotifyRepository.java
+/Users/ravi.assis/projects/searchAndNotifyJob/src/main/java/services/GetHtmlPage.java

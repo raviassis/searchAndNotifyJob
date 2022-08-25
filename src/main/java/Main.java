@@ -27,7 +27,8 @@ public class Main {
         var session = GenerateMailSession.getSession();
         var sendEmailService = new SendEmailService(
                 () -> new MimeMessage(session),
-                (Message msg) -> Transport.send(msg)
+//                (Message msg) -> Transport.send(msg)
+                Transport::send
         );
         var searchAndNotifyService = new SearchAndNofityService(
             getHtmlPage,
